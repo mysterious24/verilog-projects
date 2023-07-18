@@ -1,3 +1,4 @@
+//full adder using data flow model.
 module full_adder_data(
 input a,b,cin,
 output s ,cout
