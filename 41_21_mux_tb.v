@@ -1,3 +1,5 @@
+//4:2 mux using 2:1 mux testbench
+
 module mux4x2_tb;
 wire t_out;
 reg t_a, t_b, t_c, t_d, t_s1, t_s0;
