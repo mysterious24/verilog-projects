@@ -1,3 +1,4 @@
+//8:3Priority_Encoder
 module Priority_Encoder(en,in,out);
 input en;              
 input [7:0]in;         
