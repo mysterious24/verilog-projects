@@ -1,3 +1,4 @@
+//4:1 mux using tristate buffer and decoders test bench.
 module  mux4x1_decoder_tb();
 reg[3:0]A;
 reg[1:0]S;
