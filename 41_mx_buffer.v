@@ -1,3 +1,4 @@
+//4:1 mux using tristate buffer and decoders.
 module mux4x1_decoder(in,sel,out);
 input[3:0]in;
 input[1:0]sel;
