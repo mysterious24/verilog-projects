@@ -1,4 +1,4 @@
-
+//full adder using two half adders.
 module full_adder_2h(a_in,
 		  b_in,
 		  c_in,
