@@ -1,3 +1,4 @@
+//8:3Priority_Encoder testbench
 module Priority_Encoder_tb;
 reg en;              
 reg [7:0]in;         
