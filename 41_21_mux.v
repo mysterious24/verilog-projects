@@ -1,3 +1,4 @@
+//4:2 mux using 2:1 mux
 module mux2x1(out,a,b,s);
 input a,b,s;
 wire and_1,and_2,s_c;
@@ -14,4 +15,5 @@ wire mux1,mux2;
 mux2x1 mux_1(mux1,i0,i1,s1);
 mux2x1 mux_2(mux2,i2,i3,s1);
 mux2x1 mux_3(out,mux1,mux2,s0);
-endmodule
+endmodule
+
