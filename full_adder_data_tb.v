@@ -1,3 +1,4 @@
+//full adder using data flow model test bench.
 module full_adder_data_tb();
 reg a,b,cin;
 wire s,cout;
