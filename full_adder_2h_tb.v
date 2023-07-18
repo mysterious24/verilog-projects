@@ -1,3 +1,4 @@
+//full adder using two half adders test bench.
 module full_adder_2h_tb();
    reg   a,b,cin;
    wire  sum,carry;
